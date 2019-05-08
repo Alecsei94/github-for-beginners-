@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<title>Главная страница</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 <style type="text/css">
 body{
 	background-color: #d24dff;
 }
 </style>
-	<title>Главная страница</title>
-<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 <h1>Good Morning!</h1>
