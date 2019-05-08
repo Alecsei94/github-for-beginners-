@@ -1,3 +1,15 @@
-body{
-	background-color:purple;
-}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Главная страница</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<style>
+   body{
+    background-color: #3366CC; 
+   } 
+  </style>
+</head>
+<body>
+<h1>Good!</h1>
+</body>
+</html>
