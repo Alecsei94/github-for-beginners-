@@ -1,3 +1,1037 @@
-body {
- background-color: hsla(89, 43%, 51%, 0.3);
+#logo {
+
+width: 1347px;
+
+height: 2596px;
+
+position: absolute;
+
+top:0px;
+
+left:0px;
+
+border: 1px solid blue;
+
+background-color: #DCDCDC;
+
+}
+
+#leftmenu {
+
+width: 879px;
+
+height: 0px;
+
+position: absolute;
+
+top:293px;
+
+left:199px;
+
+border: 1px solid blue;
+
+z-index: 10;
+
+}
+
+#rightnews {
+
+width: 879px;
+
+height: 293px;
+
+position: absolute;
+
+top:50px;
+
+left:199px;
+
+border: 1px solid blue;
+
+}
+
+
+#center {
+
+width: 879px;
+
+height: 2285px;
+
+position: absolute;
+
+top: 311px;
+
+left:199px;
+
+border: 1px solid blue;
+
+background-color: #E0FFFF;
+
+}
+
+#huawei-y5-2019-front {
+
+width: 255px;
+
+height: 235px;
+
+position: absolute;
+
+top: 10px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#honor_7a {
+
+width: 255px;
+
+height: 235px;
+
+position: absolute;
+
+top: 10px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#huawei {
+
+width: 275px;
+
+height: 435px;
+
+position: absolute;
+
+top: 20px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+background-color: #f9f9f9;
+
+}
+
+#h_n {
+
+width: 255px;
+
+height: 165px;
+
+position: absolute;
+
+top: 255px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#honor {
+
+width: 275px;
+
+height: 435px;
+
+position: absolute;
+
+top: 20px;
+
+left: 300px;
+
+border: 1px solid blue;
+
+background-color: #f9f9f9;
+
+}
+
+#h_r {
+
+width: 255px;
+
+height: 165px;
+
+position: absolute;
+
+top: 255px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#nokia {
+
+width: 275px;
+
+height: 435px;
+
+position: absolute;
+
+top: 20px;
+
+left: 590px;
+
+border: 1px solid blue;
+
+background-color: #f9f9f9;
+
+}
+
+#nokia_3 {
+
+width: 255px;
+
+height: 235px;
+
+position: absolute;
+
+top: 10px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#n_n {
+
+width: 255px;
+
+height: 165px;
+
+position: absolute;
+
+top: 255px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#vivo {
+
+width: 275px;
+
+height: 435px;
+
+position: absolute;
+
+top: 470px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+background-color: #f9f9f9;
+
+}
+
+#vivo_Y81 {
+
+width: 255px;
+
+height: 235px;
+
+position: absolute;
+
+top: 10px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#v_n {
+
+width: 255px;
+
+height: 165px;
+
+position: absolute;
+
+top: 255px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#lg {
+
+width: 275px;
+
+height: 435px;
+
+position: absolute;
+
+top: 470px;
+
+left: 300px;
+
+border: 1px solid blue;
+
+background-color: #f9f9f9;
+
+}
+
+#lg_q7 {
+
+width: 255px;
+
+height: 235px;
+
+position: absolute;
+
+top: 10px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#l_n {
+
+width: 255px;
+
+height: 165px;
+
+position: absolute;
+
+top: 255px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#lenovo {
+
+width: 275px;
+
+height: 435px;
+
+position: absolute;
+
+top: 20px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+background-color: #f9f9f9;
+
+}
+#lenovo_IdeaPad {
+
+width: 255px;
+
+height: 235px;
+
+position: absolute;
+
+top: 10px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#len {
+
+width: 255px;
+
+height: 165px;
+
+position: absolute;
+
+top: 255px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#hp {
+
+width: 275px;
+
+height: 435px;
+
+position: absolute;
+
+top: 20px;
+
+left: 300px;
+
+border: 1px solid blue;
+
+background-color: #f9f9f9;
+
+}
+
+#hp_15 {
+
+width: 255px;
+
+height: 235px;
+
+position: absolute;
+
+top: 10px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#hp_n {
+
+width: 255px;
+
+height: 165px;
+
+position: absolute;
+
+top: 255px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#acer {
+
+width: 275px;
+
+height: 435px;
+
+position: absolute;
+
+top: 20px;
+
+left: 590px;
+
+border: 1px solid blue;
+
+background-color: #f9f9f9;
+
+}
+
+#acer_ex25 {
+
+width: 255px;
+
+height: 235px;
+
+position: absolute;
+
+top: 10px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#acer_n {
+
+width: 255px;
+
+height: 165px;
+
+position: absolute;
+
+top: 255px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#dell {
+
+width: 275px;
+
+height: 435px;
+
+position: absolute;
+
+top: 470px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+background-color: #f9f9f9;
+
+}
+
+#DELL_Vostro {
+
+width: 255px;
+
+height: 235px;
+
+position: absolute;
+
+top: 10px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#dell_n {
+
+width: 255px;
+
+height: 165px;
+
+position: absolute;
+
+top: 255px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#asus {
+
+width: 275px;
+
+height: 435px;
+
+position: absolute;
+
+top: 470px;
+
+left: 300px;
+
+border: 1px solid blue;
+
+background-color: #f9f9f9;
+
+}
+
+#asus_vivo {
+
+width: 255px;
+
+height: 235px;
+
+position: absolute;
+
+top: 10px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#asus_n {
+
+width: 255px;
+
+height: 165px;
+
+position: absolute;
+
+top: 255px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#samsung {
+
+width: 275px;
+
+height: 435px;
+
+position: absolute;
+
+top: 20px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+background-color: #f9f9f9;
+
+}
+#samsung_tab {
+
+width: 255px;
+
+height: 235px;
+
+position: absolute;
+
+top: 10px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#sam_t {
+
+width: 255px;
+
+height: 165px;
+
+position: absolute;
+
+top: 255px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#awei {
+
+width: 275px;
+
+height: 435px;
+
+position: absolute;
+
+top: 20px;
+
+left: 300px;
+
+border: 1px solid blue;
+
+background-color: #f9f9f9;
+
+}
+
+#MediaPad {
+
+width: 255px;
+
+height: 235px;
+
+position: absolute;
+
+top: 10px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#media_n {
+
+width: 255px;
+
+height: 165px;
+
+position: absolute;
+
+top: 255px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#digma {
+
+width: 275px;
+
+height: 435px;
+
+position: absolute;
+
+top: 20px;
+
+left: 590px;
+
+border: 1px solid blue;
+
+background-color: #f9f9f9;
+
+}
+
+#Digma_Plane {
+
+width: 255px;
+
+height: 235px;
+
+position: absolute;
+
+top: 10px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#digma_n {
+
+width: 255px;
+
+height: 165px;
+
+position: absolute;
+
+top: 255px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#nov {
+
+width: 275px;
+
+height: 435px;
+
+position: absolute;
+
+top: 470px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+background-color: #f9f9f9;
+
+}
+
+#avonel {
+
+width: 255px;
+
+height: 235px;
+
+position: absolute;
+
+top: 10px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#avonel_n {
+
+width: 255px;
+
+height: 165px;
+
+position: absolute;
+
+top: 255px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#prestigio {
+
+width: 275px;
+
+height: 435px;
+
+position: absolute;
+
+top: 470px;
+
+left: 300px;
+
+border: 1px solid blue;
+
+background-color: #f9f9f9;
+
+}
+
+#prestigio_grace {
+
+width: 255px;
+
+height: 235px;
+
+position: absolute;
+
+top: 10px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#prestigio_n {
+
+width: 255px;
+
+height: 165px;
+
+position: absolute;
+
+top: 255px;
+
+left: 10px;
+
+border: 1px solid blue;
+
+}
+
+#centert {
+
+width: 1160px;
+
+height: 1000px;
+
+position: absolute;
+
+top: 70px;
+
+left:180px;
+
+border: 1px solid blue;
+
+}
+
+#logos {
+
+width: 1347px;
+
+height: 2410px;
+
+position: absolute;
+
+top:0px;
+
+left:0px;
+
+border: 1px solid blue;
+
+background-color: #1E90FF;
+
+}
+
+#logostart {
+
+width: 1347px;
+
+height: 1180px;
+
+position: absolute;
+
+top:0px;
+
+left:0px;
+
+border: 1px solid blue;
+
+background-color: #1E90FF;
+
+}
+
+#centertan {
+
+width: 877px;
+
+height: 2290px;
+
+position: absolute;
+
+top: 110px;
+
+left:180px;
+
+border: 1px solid blue;
+
+background-color: #E0FFFF;
+
+}
+
+#logostar {
+
+width: 1347px;
+
+height: 2170px;
+
+position: absolute;
+
+top:0px;
+
+left:0px;
+
+border: 1px solid blue;
+
+}
+
+#navbar ul{
+        display: none;
+        background-color: #f90;
+        position: absolute;
+        top: 100%;
+      }
+      #navbar li:hover ul { display: block; }
+      #navbar, #navbar ul{
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+      }
+      #navbar {
+        height: 30px;
+        background-color: #666;
+        padding-left: 25px;
+        min-width: 470px;
+      }
+      #navbar li {
+        float: left;
+        position: relative;
+        height: 100%;
+      }
+      #navbar li a {
+        display: block;
+        padding: 6px;
+        width: 100px;
+        color: #fff;
+        text-decoration: none;
+        text-align: center;
+      }
+      #navbar ul li { float: none; }
+      #navbar li:hover { background-color: #f90; }
+      #navbar ul li:hover { background-color: #666; }
+.header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+
+p {
+    text-indent: 50px;
+}
+
+#text {
+
+width: 840px;
+
+height: 340px;
+
+position: absolute;
+
+top: 0px;
+
+left:18px;
+
+border: 1px solid blue;
+
+border-color: #E0FFFF;
+
+}
+
+#cen {
+
+width: 877px;
+
+height: 1060px;
+
+position: absolute;
+
+top: 110px;
+
+left:180px;
+
+border: 1px solid blue;
+
+background-color: #E0FFFF;
+
+}
+
+#texta {
+
+width: 840px;
+
+height: 340px;
+
+position: absolute;
+
+top: 0px;
+
+left:18px;
+
+border: 1px solid blue;
+
+border-color: #E0FFFF;
+
+}
+
+#texts {
+
+width: 840px;
+
+height: 340px;
+
+position: absolute;
+
+top: 0px;
+
+left:15px;
+
+border: 1px solid blue;
+
+border-color: #E0FFFF;	
+}
+
+#logotar {
+
+width: 1347px;
+
+height: 1180px;
+
+position: absolute;
+
+top:0px;
+
+left:0px;
+
+border: 1px solid blue;
+
+background-color: #1E90FF;
+
 }
