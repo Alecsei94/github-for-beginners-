@@ -16,6 +16,60 @@ background-color: #DCDCDC;
 
 }
 
+#log {
+
+width: 1347px;
+
+height: 1296px;
+
+position: absolute;
+
+top:0px;
+
+left:0px;
+
+border: 1px solid blue;
+
+background-color: #DCDCDC;
+
+}
+
+#logys {
+
+width: 1347px;
+
+height: 676px;
+
+position: absolute;
+
+top:0px;
+
+left:0px;
+
+border: 1px solid blue;
+
+background-color: #DCDCDC;
+
+}
+
+#gys {
+
+width: 1347px;
+
+height: 746px;
+
+position: absolute;
+
+top:0px;
+
+left:0px;
+
+border: 1px solid blue;
+
+background-color: #DCDCDC;
+
+}
+
 #leftmenu {
 
 width: 879px;
@@ -34,6 +88,23 @@ z-index: 10;
 
 }
 
+#letmenu {
+
+width: 879px;
+
+height: 0px;
+
+position: absolute;
+
+top:293px;
+
+left:199px;
+
+border: 1px solid blue;
+
+z-index: 10;
+
+}
 #rightnews {
 
 width: 879px;
@@ -55,7 +126,79 @@ border: 1px solid blue;
 
 width: 879px;
 
-height: 2285px;
+height: 1236px;
+
+position: absolute;
+
+top: 311px;
+
+left:199px;
+
+border: 1px solid blue;
+
+background-color: #E0FFFF;
+
+}
+
+#cter {
+
+width: 879px;
+
+height: 976px;
+
+position: absolute;
+
+top: 311px;
+
+left:199px;
+
+border: 1px solid blue;
+
+background-color: #E0FFFF;
+
+}
+
+#ter {
+
+width: 879px;
+
+height: 356px;
+
+position: absolute;
+
+top: 311px;
+
+left:199px;
+
+border: 1px solid blue;
+
+background-color: #E0FFFF;
+
+}
+
+#er {
+
+width: 879px;
+
+height: 406px;
+
+position: absolute;
+
+top: 311px;
+
+left:199px;
+
+border: 1px solid blue;
+
+background-color: #E0FFFF;
+
+}
+
+#enter {
+
+width: 879px;
+
+height: 2286px;
 
 position: absolute;
 
@@ -83,6 +226,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #honor_7a {
@@ -99,13 +244,15 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #huawei {
 
 width: 275px;
 
-height: 435px;
+height: 500px;
 
 position: absolute;
 
@@ -117,11 +264,13 @@ border: 1px solid blue;
 
 background-color: #f9f9f9;
 
+border:#fff;
+
 }
 
 #h_n {
 
-width: 255px;
+width: 260px;
 
 height: 165px;
 
@@ -133,13 +282,15 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #honor {
 
 width: 275px;
 
-height: 435px;
+height: 500px;
 
 position: absolute;
 
@@ -150,6 +301,8 @@ left: 300px;
 border: 1px solid blue;
 
 background-color: #f9f9f9;
+
+border:#fff;
 
 }
 
@@ -167,13 +320,15 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #nokia {
 
 width: 275px;
 
-height: 435px;
+height: 500px;
 
 position: absolute;
 
@@ -184,6 +339,8 @@ left: 590px;
 border: 1px solid blue;
 
 background-color: #f9f9f9;
+
+border:#fff;
 
 }
 
@@ -201,6 +358,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #n_n {
@@ -217,6 +376,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #vivo {
@@ -227,13 +388,15 @@ height: 435px;
 
 position: absolute;
 
-top: 470px;
+top: 535px;
 
 left: 10px;
 
 border: 1px solid blue;
 
 background-color: #f9f9f9;
+
+border:#fff;
 
 }
 
@@ -251,6 +414,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #v_n {
@@ -267,6 +432,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #lg {
@@ -277,13 +444,15 @@ height: 435px;
 
 position: absolute;
 
-top: 470px;
+top: 535px;
 
 left: 300px;
 
 border: 1px solid blue;
 
 background-color: #f9f9f9;
+
+border:#fff;
 
 }
 
@@ -301,6 +470,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #l_n {
@@ -317,13 +488,15 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #lenovo {
 
 width: 275px;
 
-height: 435px;
+height: 490px;
 
 position: absolute;
 
@@ -334,6 +507,8 @@ left: 10px;
 border: 1px solid blue;
 
 background-color: #f9f9f9;
+
+border:#fff;
 
 }
 #lenovo_IdeaPad {
@@ -349,6 +524,8 @@ top: 10px;
 left: 10px;
 
 border: 1px solid blue;
+
+border:#fff;
 
 }
 
@@ -366,13 +543,15 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #hp {
 
 width: 275px;
 
-height: 435px;
+height: 490px;
 
 position: absolute;
 
@@ -383,6 +562,8 @@ left: 300px;
 border: 1px solid blue;
 
 background-color: #f9f9f9;
+
+border:#fff;
 
 }
 
@@ -400,6 +581,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #hp_n {
@@ -416,13 +599,15 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #acer {
 
 width: 275px;
 
-height: 435px;
+height: 490px;
 
 position: absolute;
 
@@ -433,6 +618,8 @@ left: 590px;
 border: 1px solid blue;
 
 background-color: #f9f9f9;
+
+border:#fff;
 
 }
 
@@ -450,11 +637,13 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #acer_n {
 
-width: 255px;
+width: 265px;
 
 height: 165px;
 
@@ -466,6 +655,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #dell {
@@ -476,13 +667,15 @@ height: 435px;
 
 position: absolute;
 
-top: 470px;
+top: 535px;
 
 left: 10px;
 
 border: 1px solid blue;
 
 background-color: #f9f9f9;
+
+border:#fff;
 
 }
 
@@ -500,6 +693,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #dell_n {
@@ -516,6 +711,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #asus {
@@ -526,13 +723,15 @@ height: 435px;
 
 position: absolute;
 
-top: 470px;
+top: 535px;
 
 left: 300px;
 
 border: 1px solid blue;
 
 background-color: #f9f9f9;
+
+border:#fff;
 
 }
 
@@ -550,6 +749,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #asus_n {
@@ -566,13 +767,15 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #samsung {
 
 width: 275px;
 
-height: 435px;
+height: 500px;
 
 position: absolute;
 
@@ -583,6 +786,8 @@ left: 10px;
 border: 1px solid blue;
 
 background-color: #f9f9f9;
+
+border:#fff;
 
 }
 #samsung_tab {
@@ -599,6 +804,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #sam_t {
@@ -614,6 +821,8 @@ top: 255px;
 left: 10px;
 
 border: 1px solid blue;
+
+border:#fff;
 
 }
 
@@ -632,6 +841,9 @@ left: 10px;
 border: 1px solid blue;
 
 background-color: #f9f9f9;
+
+border:#fff;
+
 }
 
 #sam_tab {
@@ -648,6 +860,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 #sam_v {
 
@@ -663,13 +877,15 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #awei {
 
 width: 275px;
 
-height: 435px;
+height: 500px;
 
 position: absolute;
 
@@ -680,6 +896,8 @@ left: 300px;
 border: 1px solid blue;
 
 background-color: #f9f9f9;
+
+border:#fff;
 
 }
 
@@ -699,6 +917,8 @@ border: 1px solid blue;
 
 background-color: #f9f9f9;
 
+border:#fff;
+
 }
 
 #MediaPad {
@@ -714,6 +934,8 @@ top: 10px;
 left: 10px;
 
 border: 1px solid blue;
+
+border:#fff;
 
 }
 
@@ -731,6 +953,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #media_n {
@@ -746,6 +970,8 @@ top: 255px;
 left: 10px;
 
 border: 1px solid blue;
+
+border:#fff;
 
 }
 
@@ -763,13 +989,15 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #digma {
 
 width: 275px;
 
-height: 435px;
+height: 500px;
 
 position: absolute;
 
@@ -780,6 +1008,8 @@ left: 590px;
 border: 1px solid blue;
 
 background-color: #f9f9f9;
+
+border:#fff;
 
 }
 
@@ -799,6 +1029,8 @@ border: 1px solid blue;
 
 background-color: #f9f9f9;
 
+border:#fff;
+
 }
 
 #Digma_Plane {
@@ -814,6 +1046,8 @@ top: 10px;
 left: 10px;
 
 border: 1px solid blue;
+
+border:#fff;
 
 }
 
@@ -831,6 +1065,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #digma_n {
@@ -846,6 +1082,8 @@ top: 255px;
 left: 10px;
 
 border: 1px solid blue;
+
+border:#fff;
 
 }
 
@@ -863,6 +1101,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #nov {
@@ -873,13 +1113,15 @@ height: 435px;
 
 position: absolute;
 
-top: 470px;
+top: 535px;
 
 left: 10px;
 
 border: 1px solid blue;
 
 background-color: #f9f9f9;
+
+border:#fff;
 
 }
 
@@ -897,6 +1139,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #avonel_n {
@@ -913,6 +1157,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #prestigio {
@@ -923,13 +1169,15 @@ height: 435px;
 
 position: absolute;
 
-top: 470px;
+top: 535px;
 
 left: 300px;
 
 border: 1px solid blue;
 
 background-color: #f9f9f9;
+
+border:#fff;
 
 }
 
@@ -947,6 +1195,8 @@ left: 10px;
 
 border: 1px solid blue;
 
+border:#fff;
+
 }
 
 #prestigio_n {
@@ -962,6 +1212,8 @@ top: 255px;
 left: 10px;
 
 border: 1px solid blue;
+
+border:#fff;
 
 }
 
@@ -1183,3 +1435,34 @@ border: 1px solid blue;
 background-color: #1E90FF;
 
 }
+
+
+img[tabindex="0"] {  
+  cursor: zoom-in;  
+}  
+
+img[tabindex="0"]:focus {  
+  position: fixed; z-index: 10;  
+  top: 0; left: 0; bottom: 0; right: 0;  
+  width: auto; max-width: 100%;  
+  height: auto; max-height: 100%;  
+  margin: auto;  
+  box-shadow: 0 0 200px #000, 0 0 0 1000px rgba(0,0,0,.3);  
+-webkit-box-shadow: 0 0 200px #000, 0 0 0 1000px rgba(0,0,0,.3);  
+-moz-box-shadow: 0 0 200px #000, 0 0 0 1000px rgba(0,0,0,.3);  
+}  
+
+img[tabindex="0"]:focus, /* Привязка на возврат фото в привычное состояние после клика на увеличенное */  
+img[tabindex="0"]:focus ~ * {  
+  cursor: zoom-out;  
+  pointer-events: none;  
+}
+
+TABLE {
+    background: #f9f9f9; /* Цвет фона таблицы */
+    color: while; /* Цвет текста */
+   }
+   TD, TH {
+    background: #f9f9f9; /* Цвет фона ячеек */
+    padding: 0px; /* Поля вокруг текста */
+   }
